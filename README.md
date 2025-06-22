@@ -5,5 +5,10 @@ Developed with Unreal Engine 5.4.4, a simple dungeon RPG game that implements pr
 # Features
 
 1. Dungeon generation using binary space partitioning, the number of rooms can be set as desired.
+
+![Screenshot 2025-04-03 065323](https://github.com/user-attachments/assets/527da5e5-5b80-4c77-b727-5aa0c1354c43)
+
 2. Spawned enemies are controlled by Utility AI controller.
-3. A level that implements diamond square for terrain generation, which could be scaled to create a landscape.
+https://youtu.be/aJG1K4DVN-o
+
+4. A level that implements diamond square for terrain generation, which could be scaled to create a landscape.
